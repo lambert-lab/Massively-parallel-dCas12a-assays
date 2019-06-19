@@ -2,7 +2,7 @@
 This archive contains all the scripts needed to process the data presented in the manuscript titled ''Massively parallel CRISPRi assays reveal concealed thermodynamic determinants of dCas12a binding''
 
 # Data analysis
-First, download the raw sequencing data into the fastq/ folder.
+First, download the raw sequencing data into the fastq/ folder (http://www.ncbi.nlm.nih.gov/bioproject/549693).
 A Jupyter notebook instance should be launched from the ipynb/ folder.
 Each .ipynb file processes the raw data and outputs a csv file containing the raw counts and the growth rates in each condition in the csv/ folder.
 A copy of the data will also be saved as a .npy pickle file in the npy/ folder.
