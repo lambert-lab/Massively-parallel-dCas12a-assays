@@ -9,5 +9,6 @@ A copy of the data will also be saved as a .npy pickle file in the npy/ folder.
 It may take time to generate required .json files the first time any of the ipynb is run.
 
 # Dependencies.
-Anaconda - conda.io
-BioPython - https://biopython.org/
+
+- Anaconda - https://www.anaconda.com/
+- BioPython - https://biopython.org/
